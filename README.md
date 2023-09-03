@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mmuizsiddiqui@gmail.com**
 
-- 📄 Know about my experiences [6 months experience of ForntEnd Developer in SMIT(Saylani Mass It Training).
+- 📄 Know about my experiences (6 months experience of ForntEnd Developer in SMIT(Saylani Mass It Training).
 
 - ⚡ Fun fact **I think I am little bit funny😁**
 
