@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Html, Css, JavaScript, BootStrap, Tailwind, React, FireBase and Gsap.**
 
-- 📫 How to reach me **mmuizsiddiqui@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/muhammad-muiz-siddiqui-302287273/**
 
 - 📄 Know about my experiences (6 months experience of ForntEnd Developer in SMIT(Saylani Mass It Training).
 
