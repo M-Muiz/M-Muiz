@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-commerce Project**
 
-- 🌱 I’m currently learning **React Js, Next Js, Node Js,**
+- 🌱 I’m currently learning **React Native.**
 
 - 👨‍💻 All of my projects are available at [--](--)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/muhammad-muiz-siddiqui-302287273/**
 
-- 📄 Know about my experiences (6 months experience of ForntEnd Developer in SMIT(Saylani Mass It Training).
+- 📄 Know about my experiences (6 months experience of FullStack Developer in SMIT(Saylani Mass It Training).
 
 - ⚡ Fun fact **I think I am little bit funny😁**
 
