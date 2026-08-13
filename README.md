@@ -29,19 +29,24 @@
  -->
 
 
-#✨ About Me
+🌌 About Me
 
-👨‍💻 **Full-Stack Developer** passionate about building scalable, performant & user-friendly web applications.
+✨ Full-Stack Developer | MERN Stack 🚀
 
-🚀 Currently working with the **MERN Stack** and exploring **Advanced Backend Architecture, Cloud Deployment & Web Performance**.
+💻 Building scalable & modern web applications with **MongoDB, Express, React & Node.js**
 
-🧠 Always learning, experimenting & pushing my limits with **JavaScript, Python & Backend Engineering**.
+🤝 Open to **Open Source • Internships • Collaborations • Web Dev Roles**
 
-🤝 Open to **Open Source Contributions, Internships, Collaborations & Web Development Opportunities**.
+⚡ Exploring **Advanced Backend Optimization, Cloud Deployment & UI/UX Best Practices**
 
-🐛 I enjoy solving complex bugs, optimizing applications & turning ideas into clean, efficient code.
+🐍 Currently learning **Python & Advanced Backend Architecture**
 
-☕ **Coffee + Code + Debugging = My Happy Place.** 💻✨
+🛠️ **JavaScript • MERN • REST APIs • Web Performance**
+
+☕ I turn coffee into code & complex bugs into solutions. 🐛➡️💡
+
+🛸 Always learning. Always building. Always improving.
+
 
 
 
