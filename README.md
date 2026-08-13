@@ -29,8 +29,21 @@
  -->
 
 
-# 💫 About Me:
-I'm currently working on a Full-Stack Blog Application using the MERN Stack.<br>I'm Looking to collaborate on Open Source Pojects, Internship, Opportunities and Web Development Roles.<br>I'm looking for help with Advance Backend Optimization, Cloud Deployment  and UI/UX best practices.<br>I'm currently learning Python and Advance Backend Architecture.<br>MERN Stack Development, JavaScript, REST APIs and Web Perfomance.<br>I turn coffee into code and love solving complex debugging problems!
+#✨ About Me
+
+👨‍💻 **Full-Stack Developer** passionate about building scalable, performant & user-friendly web applications.
+
+🚀 Currently working with the **MERN Stack** and exploring **Advanced Backend Architecture, Cloud Deployment & Web Performance**.
+
+🧠 Always learning, experimenting & pushing my limits with **JavaScript, Python & Backend Engineering**.
+
+🤝 Open to **Open Source Contributions, Internships, Collaborations & Web Development Opportunities**.
+
+🐛 I enjoy solving complex bugs, optimizing applications & turning ideas into clean, efficient code.
+
+☕ **Coffee + Code + Debugging = My Happy Place.** 💻✨
+
+
 
 
 ## 🌐 Socials:
